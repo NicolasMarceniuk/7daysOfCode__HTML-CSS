@@ -1,0 +1,20 @@
+@import url(style/header.css);
+
+:root {
+    --Cor-titulo: #3A404E;
+    --vermelho-fundo: #8E2424;
+    --cinza-secundario: #667085;
+    --branco-principal: #FFFFFF;
+
+    --fonte-principal: "Inter";
+}
+
+body {
+    background: var(--branco--principal); 
+}
+
+.d-flex {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
