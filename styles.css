@@ -1,10 +1,13 @@
 @import url(style/header.css);
+@import url(style/sobre.css);
 
 :root {
     --Cor-titulo: #3A404E;
     --vermelho-fundo: #8E2424;
     --cinza-secundario: #667085;
     --branco-principal: #FFFFFF;
+    --azul-escuro: #101828;
+    --azul-claro: #667085;
 
     --fonte-principal: "Inter";
 }
