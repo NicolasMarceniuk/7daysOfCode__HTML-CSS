@@ -2,6 +2,7 @@
 @import url(style/sobre.css);
 @import url(style/metricas.css);
 @import url(style/banner.css);
+@import url(style/vagas.css);
 
 :root {
     --Cor-titulo: #3A404E;

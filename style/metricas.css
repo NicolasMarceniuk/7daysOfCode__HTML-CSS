@@ -1,6 +1,8 @@
 .metricas-container {
-    margin: 10em 2em;
+    padding: 7em;
     justify-content: space-between;
+    width: 1500px;
+    margin: auto;
 }
 
 .metricas {

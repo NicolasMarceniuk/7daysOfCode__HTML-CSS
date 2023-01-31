@@ -1,6 +1,8 @@
 .sobre-container {
+    padding: 7em;
     text-align: center;
-    margin-top: 10em;
+    width: 1500px;
+    margin: auto;
 }
 
 .sobre__nos {
