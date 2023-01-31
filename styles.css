@@ -1,6 +1,7 @@
 @import url(style/header.css);
 @import url(style/sobre.css);
 @import url(style/metricas.css);
+@import url(style/banner.css);
 
 :root {
     --Cor-titulo: #3A404E;
